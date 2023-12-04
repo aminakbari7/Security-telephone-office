@@ -1,0 +1,11 @@
+C:\Users\Amin\Desktop\systemphone\obj\Release\net6.0-windows\systemphone.csproj.AssemblyReference.cache
+C:\Users\Amin\Desktop\systemphone\obj\Release\net6.0-windows\systemphone.adduser.resources
+C:\Users\Amin\Desktop\systemphone\obj\Release\net6.0-windows\systemphone.edit.resources
+C:\Users\Amin\Desktop\systemphone\obj\Release\net6.0-windows\systemphone.login.resources
+C:\Users\Amin\Desktop\systemphone\obj\Release\net6.0-windows\systemphone.panel.resources
+C:\Users\Amin\Desktop\systemphone\obj\Release\net6.0-windows\systemphone.Properties.Resources.resources
+C:\Users\Amin\Desktop\systemphone\obj\Release\net6.0-windows\systemphone.csproj.GenerateResource.cache
+C:\Users\Amin\Desktop\systemphone\obj\Release\net6.0-windows\systemphone.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Amin\Desktop\systemphone\obj\Release\net6.0-windows\systemphone.AssemblyInfoInputs.cache
+C:\Users\Amin\Desktop\systemphone\obj\Release\net6.0-windows\systemphone.AssemblyInfo.cs
+C:\Users\Amin\Desktop\systemphone\obj\Release\net6.0-windows\systemphone.csproj.CoreCompileInputs.cache
